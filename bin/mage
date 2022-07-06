@@ -1,4 +1,4 @@
-#!/usr/bin/env $PHPBINFORMAGE
+#!/usr/bin/php7.2
 <?php
 /*
  * This file is part of the Magallanes package.
