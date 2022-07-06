@@ -1,3 +1,4 @@
+#!/usr/bin/env $PHPBINFORMAGE
 <?php
 /*
  * This file is part of the Magallanes package.
